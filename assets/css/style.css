@@ -19,7 +19,7 @@
 }
 
 .fb-header .fb-container .fb-logo-area{
-    width: 60%;
+    width: 55%;
     float: left;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .fb-header .fb-container .fb-login-area{
-    width: 40%;
+    width: 45%;
     float: left;
 }
 
@@ -118,12 +118,12 @@
 }
 
 .facebook-body .body-container .left-side{
-    width: 58%;
+    width: 55%;
     float: left;
 }
 
 .facebook-body .body-container .right-side{
-    width: 42%;
+    width: 45%;
     float: left;
     box-sizing: border-box;
     /* margin-right: 20px; */
